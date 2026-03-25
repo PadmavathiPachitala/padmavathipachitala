@@ -1,8 +1,8 @@
 
 # 👋 HARSHINI PADMAVATHI . P 
 
-<p> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Engineering;Active+Learner+%26+Researcher;Love+to+learn+new+things+<3"
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Content+Writer;AI+and+Data+Science+enthusiast"
 
 </p>
 <!-- About Me Section -->
@@ -101,13 +101,13 @@ const Harshini = {
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PadmavathiPachitala&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PadmavathiPachitala&theme=algolia">
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadmavathiPachitala&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadmavathiPachitala&theme=algolia">
 
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=PadmavathiPachitala&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=PadmavathiPachitala&theme=radical">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=PadmavathiPachitala&theme=algolia">
 
 </div>
 
