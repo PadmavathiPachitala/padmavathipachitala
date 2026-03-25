@@ -1,10 +1,10 @@
 
 # 👋 HARSHINI PADMAVATHI . P 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Content+Writer;AI+and+Data+Science+enthusiast;>
-</p>
+<p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Engineering;Active+Learner+%26+Researcher;Love+to+learn+new+things+<3"
 
+</p>
 <!-- About Me Section -->
 
 
