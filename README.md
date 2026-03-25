@@ -40,7 +40,6 @@ const Harshini = {
     
     lifeLoop: function() {
         while(alive) {
-            eat();
             code();
             solve();
             repeat();
