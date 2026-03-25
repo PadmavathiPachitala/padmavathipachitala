@@ -105,7 +105,7 @@ const Harshini = {
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadmavathiPachitala&theme=algolia">
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=PadmavathiPachitala&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=PadmavathiPachitala&theme=algolia&hide_border=false&include_all_commits=false&count_private=false">
 
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=PadmavathiPachitala&theme=algolia">
 
