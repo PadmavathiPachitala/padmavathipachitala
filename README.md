@@ -15,16 +15,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshinipadmavathi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+    <img height="50" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="https://medium.com/@padmavathipachitala2719">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+    <img height="50" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
+  
   <a href="mailto:padmavathipachitala2719@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+    <img height="50" src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
