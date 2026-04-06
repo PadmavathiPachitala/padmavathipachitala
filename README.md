@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Harshini&fontSize=60&fontColor=00F7FF&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Content+Writer;AI+and+Data+Science+enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&width=750&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Open+Source+Enthusiast;Content+Writer;AI+and+Data+Science+enthusiast" />
 
 </div>
 <!-- About Me Section -->
