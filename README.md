@@ -1,4 +1,3 @@
-
 # 👋 HARSHINI PADMAVATHI . P 
 
 <div align="center">
@@ -8,6 +7,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&width=750&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Open+Source+Enthusiast;Content+Writer;AI+and+Data+Science+enthusiast" />
 
 </div>
+<br>
+
+<!-- 🌸 BADGES (SOFT COLORS) -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Science%20Student-6c8cff?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-7f9cff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Content%20Writer-9bb3ff?style=for-the-badge&logo=medium&logoColor=white"/>
+
+</div>
+
+<br>
+
 <!-- About Me Section -->
 
 
