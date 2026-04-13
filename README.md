@@ -28,7 +28,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18px"> About Me
@@ -108,7 +108,6 @@ const Harshini = {
 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PadmavathiPachitala&theme=algolia">
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=PadmavathiPachitala&theme=algolia&hide_border=false&include_all_commits=false&count_private=false">
 
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=PadmavathiPachitala&theme=algolia">
 
